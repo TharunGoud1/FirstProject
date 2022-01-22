@@ -8,7 +8,7 @@ public class App
 {
     int x=10;
     int y=20;
-    public int add(int x,int y){
+    public static int add(int x,int y){
         int z =x+y;
        System.out.println( "Hello Add!"+z );
     }
